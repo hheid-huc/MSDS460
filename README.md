@@ -1,5 +1,4 @@
 # MSDS460
-# MSDS460
 # Northwestern University MSDS
 MSDS 460 Class Assignment 1
 # Abstract
